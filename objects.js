@@ -1,5 +1,5 @@
-var playlist = {Madonna: "Prayer"}
+var playlist = {Madonna: "My Bloody Valentine"}
 function updatePlaylist(playlist,artistName, songTitle) {
-  playlist['usher'] = "closer"
+  playlist['Phil Ochs'] = "Slowdive"
   return playlist
 }
